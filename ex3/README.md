@@ -130,8 +130,11 @@ print('Training Set Accuracy: ', np.mean(y.ravel() == y_predict) * 100, '%')
 **Output:**
 
 - Console:
+
     ![image.png](https://i.loli.net/2020/03/14/ZKdwaXmAJPWcn2e.png)
+
 - Randomly select several data points to display:
+
     ![image.png](https://i.loli.net/2020/03/14/DzwfdCreQkvbxX3.png)
 
 #### Ex3.2 Neural Networks
@@ -220,6 +223,7 @@ for i, idx in enumerate(random_index):
 **Output:**
 
 - Console: 
+
     ![image.png](https://i.loli.net/2020/03/14/hAL8WIqmCGFYnk7.png)
 
 

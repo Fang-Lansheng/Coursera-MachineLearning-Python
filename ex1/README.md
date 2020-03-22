@@ -161,7 +161,7 @@ plt.show()
 
 ![image.png](https://i.loli.net/2020/03/03/3SVAbhH5y78zXkc.png)
 
-- Reducing of $J(\theta_0, \theta_1)$ during iteration
+- Reducing of $J(\theta_0, \theta_1)$ ![](http://latex.codecogs.com/gif.latex?J(%5Ctheta_0,%20%5Ctheta_1)) during iteration
 
 ![Figure_2.png](https://i.loli.net/2020/03/03/VWOMoKai5QcCAsn.png)
 
