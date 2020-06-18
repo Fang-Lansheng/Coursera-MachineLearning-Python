@@ -8,6 +8,6 @@ Because I'm not good at using Jupyter Notebook, so there are only codes and rela
 [https://my-thistledown.com/2020/02/26/ML-Ng-1/](https://my-thistledown.com/2020/02/26/ML-Ng-1/)
 
 > References:
-> - [fengdu78/Coursera-ML-AndrewNg-Notes - Github](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
-> - [kaleko/CourseraML - Github](https://github.com/kaleko/CourseraML)
-> - [Octave Online Â· Cloud IDE compatible with MATLAB](https://octave-online.net/)
+> - [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments): Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
+> - [kaleko/CourseraML - Github](https://github.com/suraggupta/coursera-machine-learning-solutions-python): A repository with solutions to the assignments on Andrew Ng's machine learning MOOC on Coursera.
+> - [Octave Online · Cloud IDE compatible with MATLAB](https://octave-online.net/)
