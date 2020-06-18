@@ -9,5 +9,5 @@ Because I'm not good at using Jupyter Notebook, so there are only codes and rela
 
 > References:
 > - [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments): Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.
-> - [kaleko/CourseraML - Github](https://github.com/suraggupta/coursera-machine-learning-solutions-python): A repository with solutions to the assignments on Andrew Ng's machine learning MOOC on Coursera.
+> - [suraggupta/coursera-machine-learning-solutions-python](https://github.com/suraggupta/coursera-machine-learning-solutions-python): A repository with solutions to the assignments on Andrew Ng's machine learning MOOC on Coursera.
 > - [Octave Online · Cloud IDE compatible with MATLAB](https://octave-online.net/)
